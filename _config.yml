@@ -1,0 +1,11 @@
+# Metadata about the site
+
+name: cidney hamilton
+email: cidney@cidneyhamilton.com
+url: cidneyhamilton.com
+
+# Build settings
+
+plugins:
+  - jekyll-feed
+
