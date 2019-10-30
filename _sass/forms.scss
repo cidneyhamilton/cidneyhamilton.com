@@ -12,16 +12,15 @@ input, textarea {
 	border-width: 1px;
 	box-sizing: border-box;
 	line-height: 1.2;
-	padding: 0.5em;
+	padding: .5em;
 	font-size: 18px;
 }
 
 input[type="text"],
 input[type="email"],
 textarea {
+	height: 2em;
 	margin-top: .5em;
-	width: 100%;
-
 }
 
 input[type="submit"] {
@@ -30,6 +29,7 @@ input[type="submit"] {
 	font-size: 18px;
 	margin: 1.2em 0;
 	outline: 0;
+	padding: .5em;
 }
 
 .buttons {
