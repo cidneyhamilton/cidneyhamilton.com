@@ -3,5 +3,21 @@ layout: bare
 ---
 
 <body class="bg-black">
-  {{ content }}
+
+  <header>
+	<h1>{{ page.heading }}</h1>
+  </header>
+  
+<div class="scalloped">
+	<main>	 	  
+		{{ content }}
+	</main>
+</div>
+
+  <footer>
+	<p>{% include search-form.html %}</p>
+
+		{% include nav.html %}
+  </footer>
+
 </body>

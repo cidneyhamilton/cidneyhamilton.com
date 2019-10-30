@@ -3,7 +3,23 @@ layout: bare
 ---
 
 <body class="bg-white">
+
+  <header>
+	
+	{% include nav.html %}
+
+  </header>
+  
   <main>
 	{{ content }}
-	</main>
+  </main>
+
+  <footer>
+
+	<p>{% include search-form.html %}</p>
+
+	<p><a href="/">back to the front page</a></p>
+
+  </footer>
+
 </body>

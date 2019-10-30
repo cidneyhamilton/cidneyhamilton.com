@@ -4,21 +4,43 @@
 
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 
+@import "color";
 @import "forms";
+@import "nav";
+@import "scallop";
 
 body {
-	margin: 0;
+	background: $lighter-gray;
+	color: $darkest-gray;
 	font-size: 18px;
+	margin: 0;
 }
 
-.bg-black {
-	background: #000;
-	color: #333;
+a,
+a:visited {
+	color: $dark-pink;
 }
 
-.bg-white {
-	background: #eee;
-	color: #111;
+a:hover,
+a:active{
+	color: $pink;
+}
+
+footer {
+	border-top: 1px dotted $dark-gray;
+	margin: 1em 2em;
+	padding: 2em 0;
+	text-align: center;	
+}
+
+footer ul {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	margin: 0;
+	padding: .6em;
 }
 
 h1, h1, h2 {
@@ -29,10 +51,64 @@ h1 {
 	font-size: 12vw;
 	text-align: center;
 	font-family: "EB Garamond", Georgia, serif;
+	margin: 80px 0;
 }
 
 main {
-	margin: 40px auto;
-	max-width: 620px;
 	line-height: 1.6;
+	margin: 40px auto;
+	max-width: 690px;
+	padding: 1em;
+}
+
+main a {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.bg-black {
+	background: $light-gray;
+}
+
+.bg-black header {
+	background: black;
+	color: $dark-gray;
+	min-height: 60vh;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.bg-black main {
+	font-size: 150%;
+}
+
+
+.bg-white header,
+footer {
+	font-size: 90%;
+}
+
+.bg-white header {
+	border-bottom: 1px dotted $dark-gray;
+	padding: .2em 4em;
+	text-align: right;
+}
+
+@media (max-width:600px) {
+
+	.bg-white header {
+		margin: .2em 0;
+		padding: .2em 1em;
+	}
+}
+
+
+.search {
+	display: inline-block;
+}
+
+.search input[type="submit"] {
+	margin: 0;
 }

@@ -6,14 +6,16 @@ permalink: /about/
 
 ## About Me
 
-My name is Cidney. I'm a web and game developer. Projects I've worked on include [Archive of Our Own](http://archiveofourown.org), [Hero-U: Rogue to Redemption](http://hero-u.com), [Summer Daze](http://summerdazegame.com), and the [Steampunk World's Fair](http://steampunkworldsfair.com).
+{% include hcard.html %}
 
 ## Privacy Policy
 
-I don't track or store any data about visitors.
+I don't track or store data about visitors.  There are no analytics or cookies on this website.
 
-## Copyright
+## License
 
-Text on this site is available under a [Creative Commons Attribution Sharealike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+All content on this site is available under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution Sharealike 4.0 License</a>.
+
+Last updated **October 29, 2019**.
 
 
