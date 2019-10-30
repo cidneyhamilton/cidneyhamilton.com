@@ -7,6 +7,10 @@ textarea {
 	height: 8em;
 }
 
+input {
+	-webkit-appearance: textfield;
+}
+
 input, textarea {
 	border-style: solid;
 	border-width: 1px;
