@@ -4,6 +4,8 @@ name: cidney hamilton
 email: cidney@cidneyhamilton.com
 url: http://cidneyhamilton.com
 
+favicon: "/assets/images/favicon.ico"
+
 # Build settings
 
 plugins:
