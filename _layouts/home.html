@@ -8,16 +8,19 @@ layout: bare
 	<h1>{{ page.heading }}</h1>
   </header>
   
-<div class="scalloped">
-	<main>	 	  
-		{{ content }}
-	</main>
-</div>
+<div class="scalloped scalloped-top"></div>
 
-  <footer>
-	{% include search-form.html %}
+<main>	 	  
+  {{ content }}
+</main>
 
-	{% include nav.html %}
-  </footer>
+
+<div class="scalloped scalloped-bottom"></div>
+
+<footer>
+  {% include search-form.html %}
+
+  {% include nav.html %}
+</footer>
 
 </body>
