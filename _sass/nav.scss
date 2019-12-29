@@ -1,3 +1,4 @@
+// Navigation
 .nav {
 	display: inline-block;
 	list-style-type: none;
@@ -11,7 +12,7 @@
 .nav li:before {
 	content: "| ";
 }
+
 .nav li:first-child:before {
 	content: "";
 }
-
