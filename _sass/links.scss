@@ -1,0 +1,16 @@
+
+a,
+a:visited {
+    color: $dark-pink;
+}
+
+a:hover,
+a:active{
+    color: $pink;
+}
+
+main a {
+    font-weight: bold;
+    text-decoration: none;
+}
+

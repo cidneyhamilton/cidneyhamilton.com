@@ -2,104 +2,31 @@
 # Main SASS file, includes all the others
 ---
 
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 
+@import "typography";
 @import "color";
 @import "forms";
 @import "nav";
 @import "scallop";
 @import "footer";
+@import "background";
+@import "header";
+@import "links";
+@import "search";
 
 body {
-	background: $lighter-gray;
-	color: $darkest-gray;
-	font-size: 18px;
-	margin: 0;
+    background: $lighter-gray;
+    color: $darkest-gray;
+    font-size: 18px;
+    margin: 0;
 }
 
-a,
-a:visited {
-	color: $dark-pink;
-}
-
-a:hover,
-a:active{
-	color: $pink;
-}
-
-header {
-	margin: 0;
-	padding: .6em;
-}
-
-h1, h1, h2 {
-	line-height: 1.2em;
-}
-
-h1 {
-	font-size: 12vw;
-	text-align: center;
-	font-family: "EB Garamond", Georgia, serif;
-	margin: 80px 0;
-}
 
 main {
-	line-height: 1.6;
-	margin: 40px auto;
-	max-width: 690px;
-	padding: 1em;
-}
-
-main a {
-	font-weight: bold;
-	text-decoration: none;
-}
-
-.bg-black {
-	background: $light-gray;
-}
-
-.bg-black header {
-	background: black;
-	color: $dark-gray;
-	min-height: 60vh;
-	padding: 0;
-	display: flex;
-	justify-content: center;
-	flex-direction: column;
-}
-
-.bg-black main {
-	font-size: 150%;
+    line-height: 1.6;
+    margin: 40px auto;
+    max-width: 690px;
+    padding: 1em;
 }
 
 
-.bg-white header,
-footer {
-	font-size: 90%;
-}
-
-.bg-white header {
-	border-bottom: 1px dotted $dark-gray;
-	padding: .2em 4em;
-	text-align: right;
-}
-
-@media (max-width:600px) {
-	.bg-black main {
-		font-size: 100%;
-	}
-	
-	.bg-black header {
-		min-height: 0px;
-	}
-
-	.bg-white header {
-		margin: .2em 0;
-		padding: .2em 1em;
-	}
-}
-
-.search {
-	display: block;
-}

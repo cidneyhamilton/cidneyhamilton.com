@@ -1,0 +1,45 @@
+
+.bg-black {
+    background: $light-gray;
+}
+
+.bg-black header {
+    background: black;
+    color: $dark-gray;
+    min-height: 60vh;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bg-black main {
+    font-size: 150%;
+}
+
+
+.bg-white header,
+footer {
+    font-size: 90%;
+}
+
+.bg-white header {
+    border-bottom: 1px dotted $dark-gray;
+    padding: .2em 4em;
+    text-align: right;
+}
+
+@media (max-width:600px) {
+    .bg-black main {
+	font-size: 100%;
+    }
+    
+    .bg-black header {
+	min-height: 0px;
+    }
+    
+    .bg-white header {
+	margin: .2em 0;
+	padding: .2em 1em;
+    }
+}

@@ -1,6 +1,6 @@
 # Metadata about the site
 
-name: cidney hamilton
+name: Cidney Hamilton
 email: cidney@cidneyhamilton.com
 url: http://cidneyhamilton.com
 
@@ -10,4 +10,10 @@ favicon: "/assets/images/favicon.ico"
 
 plugins:
   - jekyll-feed
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
 
