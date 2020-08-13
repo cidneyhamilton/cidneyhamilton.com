@@ -2,7 +2,6 @@
 # Main SASS file, includes all the others
 ---
 
-
 @import "typography";
 @import "color";
 @import "forms";
@@ -13,20 +12,5 @@
 @import "header";
 @import "links";
 @import "search";
-
-body {
-    background: $lighter-gray;
-    color: $darkest-gray;
-    font-size: 18px;
-    margin: 0;
-}
-
-
-main {
-    line-height: 1.6;
-    margin: 40px auto;
-    max-width: 690px;
-    padding: 1em;
-}
-
+@import "main";
 

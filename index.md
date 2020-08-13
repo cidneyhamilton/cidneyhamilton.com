@@ -1,6 +1,8 @@
 ---
 layout: home
-heading: "#Delete Facebook"
+heading: Cidney Hamilton
 ---
 
-Time's up. Stop using social apps that steal your data, and join me in moving to the <a href="http://indieweb.org">Indie Web</a>.
+Hi, I'm Cidney. I make narrative-driven games for <a href="http://transolargames.com">Transolar Games</a>.
+
+You can find me on the <a href="https://mastodon.gamedev.place/@cidney">Fediverse</a>, or send me a message via my <a href="http://cidneyhamilton.com/contact/">contact form</a>.

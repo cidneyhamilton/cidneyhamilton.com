@@ -10,7 +10,10 @@
     padding: 0;
     display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: column;    
+    @media screen and (max-width: 970px) {
+	min-height: 20vh;
+    }
 }
 
 .bg-black main {
