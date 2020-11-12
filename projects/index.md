@@ -4,7 +4,7 @@ layout: page
 
 ## Game Development
 
-This is a non-exhaustive list of games I've worked on. This does not include LARPs, tabletops, or projects I worked on in school.
+This is a non-exhaustive list of games I've worked on.
 
 <p>
 <a href="http://summerdazegame.com" target="_blank">
@@ -23,10 +23,6 @@ This is a non-exhaustive list of games I've worked on. This does not include LAR
 </p>
 
 ### Free:
+* [Dryad's Quest](http://cidney.itch.io/dryads-quest) (2020)
+* [Chosen One](http://cidney.itch.io/chosen-one) (2020)
 * [The Owl Consults](https://ifdb.tads.org/viewgame?id=32u49mceyst7p8ey) (2018)
-* [Leavetaking](/games/leavetaking) (2015)
-
-### Prototypes:
-* [Mermaid Catch](/games/mermaid-catch) 
-* [B&W Space Invaders](https://cidneyhamilton.github.io/space-invaders/) 
-* [B&W Tic Tac Toe](https://cidneyhamilton.github.io/tic-tac-toe/)
