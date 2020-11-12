@@ -3,6 +3,6 @@ layout: home
 heading: Cidney Hamilton
 ---
 
-Hi, I'm Cidney. I make narrative-driven games for <a href="http://transolargames.com">Transolar Games</a>.
+Hi, I'm Cidney. This is my realname domain and personal website.
 
-You can find me on the <a href="https://mastodon.gamedev.place/@cidney">Fediverse</a>, or send me a message via my <a href="http://cidneyhamilton.com/contact/">contact form</a>.
+You can get it touch with me on the <a href="https://social.city-of-glass.net/@cidney">Fediverse</a>, or send me a message via my <a href="http://cidneyhamilton.com/contact/">contact form</a>.

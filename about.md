@@ -10,12 +10,10 @@ permalink: /about/
 
 ## Privacy Policy
 
-I don't track or store data about visitors.  There are no analytics or cookies on this website.
+There are no analytics or cookies on this website. I don't track people or store information about visitors. It's that simple. :)
 
-## License
+## Last Updated
 
-All content on this site is available under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution Sharealike 4.0 License</a>.
-
-Last updated **August 13, 2020**.
+Last updated **November 12, 2020**.
 
 
