@@ -1,17 +1,31 @@
 ---
-layout: page
+layout: bare
 ---
 
-<article class="post h-entry">
+<body class="bg-white">
 
-  {% include post-header.html %}
+  <header>
+    {% include nav.html %}
+  </header>
 
-  <div class="post-content e-content">
-    {{ content }}
-  </div>
+  <main>
+    <article class="post h-entry">      
+      {% include post-header.html %}     
+      <div class="post-content e-content">
+	{{ content }}
+      </div>
+      
+      {% include post-footer.html %}
+    </article>
+  </main>
+  
+  <footer>
+    {% include search-form.html %}
+    {% include back-link.html %}
+  </footer>
+  
+</body>
 
-  {% include post-footer.html %}
-</article>
 
 
 
