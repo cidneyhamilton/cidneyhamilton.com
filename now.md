@@ -2,18 +2,19 @@
 layout: page
 title: Now
 permalink: /now/
+last_updated: January 15, 2021
 ---
 
 ## What I'm Doing Now
 
-<small>This is a <a href="http://nownownow.com/about">now page</a>, inspired by <a href="https://sive.rs/nowff">Derek Sivers</a>'s. It's like a static version of a status update.</small>
+<small>This is a <a href="http://nownownow.com/about" target="_blank">now page</a>, inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Sivers</a>'s. It's like a static version of a status update.</small>
 
-I'm... writing a book!
+Before the pandemic, I was planning on leaving Florida. I'm likely to be here for some time now, though. So far, I haven't gotten sick, but many people I care about have. The world is a frightening place these days.
 
-I've been in Florida for the last three years. Originally, I was here to renew my visa and go back to Paris. Then I ended up having another two rounds of spine surgery (turns out there were complications after a car accident). Then, discovered that my biological mother had been conducting real estate fraud in my name (ouch), and I was both disabled and owed a lot of taxes on a business I wasn't involved in.
+I'm continuing to revise my novel. I have a complete draft, but there's a lot of work left to get it to be as polished as I would like it to be. I'm finished with the part where I have to work on it extensively.
 
-It was a complicated and personally difficult few years. 
+I've been migrating to a mostly self-hosted setup, for code, files, and social media. I'm beginning to work on figuring out what I'm comfortable sharing and not sharing, and what to include on this website.
 
-My plan has always been to wrap things up, then move back up north... but the events of the last few years have reached the point where I struggle to talk about them because I figure nobody will believe me. :) Florida is a really weird place, and my life has been really weird in general.
+## Last Updated
 
-So... I'm writing a novel! It deals with sex trafficking, the weirder side of Florida, teen suicide, and personal agency. It'll be coming out in early 2021. 
+Last updated on **{{page.last_updated}}**

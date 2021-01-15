@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+last_updated: January 15, 2021
 ---
 
-## About Me
+## {{ page.title }}
 
 {% include hcard.html %}
 
@@ -14,6 +15,6 @@ There are no analytics or cookies on this website. I don't track people or store
 
 ## Last Updated
 
-Last updated **November 12, 2020**.
+Last updated **{{page.last_updated}}**.
 
 

@@ -4,22 +4,17 @@ layout: bare
 
 <body class="bg-white">
 
-  <header>
-	
-	{% include nav.html %}
-
+  <header>	
+    {% include nav.html %}
   </header>
   
   <main>
-	{{ content }}
+    {{ content }}
   </main>
 
   <footer>
-
-	<p>{% include search-form.html %}</p>
-
-	<p><a href="/">back to the front page</a></p>
-
+    {% include search-form.html %}
+    {% include back-link.html %}
   </footer>
 
 </body>
