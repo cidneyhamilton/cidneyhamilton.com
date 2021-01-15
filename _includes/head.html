@@ -9,19 +9,14 @@
 <meta property="og:site_name" content="{{ site.name }}" />
 <meta property="og:title" content="{{ site.name }}" />
 
-<link rel="stylesheet" id="bfa-font-awesome-css" href="//cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
-
 <link href="https://gmpg.org/xfn/11" rel="profile" />
-<link href="{{ site.url }}" rel="me" />
-
-<link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url}}" />
-
-<link rel="apple-touch-icon-precomposed" href="/assets/images/favicons/apple-touch-icon.png" />
 
 <title>{{ site.name }}</title>
 
-<link rel="stylesheet" href=" {{ "/assets/css/style.css" | relative_url }}" />
+<link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url}}" />
+<link rel="apple-touch-icon-precomposed" href="{{ site.apple-touch-icon | relative_url }}"/>
 
-<link rel="me" href="https://github.com/cidneyhamilton" authn />
-<link rel="me" href="https://gitlab.com/cidney" authn />
-<link rel="me" href="https://mastodon.gamedev.place/@cidney" />
+<link rel="stylesheet" href="{{ site.font-awesome | relative_url }}">
+<link rel="stylesheet" href=" {{ site.css-link | relative_url }}" />
+
+{% include relme.html %}

@@ -1,10 +1,15 @@
 # Metadata about the site
-
 name: Cidney Hamilton
 email: cidney@cidneyhamilton.com
 url: http://cidneyhamilton.com
 
+# Icons 
 favicon: "/assets/images/favicon.ico"
+apple-touch-icon: "/assets/images/favicons/apple-touch-icon.png"
+
+# CSS
+font-awesome: "/assets/font-awesome/css/fork-awesome.min.css"
+css-link: "/assets/css/style.css"
 
 # Build settings
 
