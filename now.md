@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Now
+title: What I'm Doing Now
 permalink: /now/
 last_updated: January 15, 2021
 ---
-
-## What I'm Doing Now
 
 <small>This is a <a href="http://nownownow.com/about" target="_blank">now page</a>, inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Sivers</a>'s. It's like a static version of a status update.</small>
 
