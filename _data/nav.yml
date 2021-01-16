@@ -1,5 +1,7 @@
 - name: about
-  url: /about
+  url: /about 
+- name: uses
+  url: /uses
 - name: now
   url: /now
 - name: contact
