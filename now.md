@@ -2,16 +2,20 @@
 layout: page
 title: What I'm Doing Now
 permalink: /now/
-last_updated: January 15, 2021
+last_updated: September 25, 2021
 ---
 
 <small>This is a <a href="http://nownownow.com/about" target="_blank">now page</a>, inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Sivers</a>'s. It's like a static version of a status update.</small>
 
-Before the pandemic, I was planning on leaving Florida. I'm likely to be here for some time now, though. So far, I haven't gotten sick, but many people I care about have. The world is a frightening place these days.
+I'm still in Florida! I've been in Florida for five years now. I'm getting handfasted to my fiancee in October, then trying to wrap things up and move in the spring.
 
-I'm continuing to revise my novel. I have a complete draft, but there's a lot of work left to get it to be as polished as I would like it to be. I'm finished with the part where I have to work on it extensively.
+I'm working on <a href="http://kensgame.com">a new adventure game</a> right now, with <a href="https://www.sierragamers.com/">Ken and Roberta Williams</a>, of Sierra Online! I'm primarily working on the VR port (which meant I had to get a VR headset and learn how to develop for it), but getting my hands dirty with all sorts of things. The game is still top secret, but will hopefully be able to share more about it as it gets further to release.
 
-I've been migrating to a mostly self-hosted setup, for code, files, and social media. I'm beginning to work on figuring out what I'm comfortable sharing and not sharing, and what to include on this website.
+This is my first full-time job since getting diagnosed with Ehlers-Danlos Syndrome back in 2015. Around that time, I had crippling back and joint pain after leaving the office, and was struggling to hack it. The EDS diagnosis helped me figure out what was causing the pain, but shortly afterwards, I had lots of setbacks... a bad car accident where I broke my spine (and couldn't walk for a year), a botched spinal fusion, and a bout of MRSA. I've managed to recover and am more functional now than I ever felt possible... although I need to spend several hours a day on physical therapy, and have to be very careful to protect my joints and avoid further injury. I was working part-time for the Coles (other Sierra alums) before this started, who were heroically supportive, but as my health improved and my medical bills ate up my savings from working in tech, I both needed and wanted more work. Ken is a notoriously demanding boss, but so far it's been a good fit; I enjoy being challenged and I'm learning a lot from working with them! 
+
+I'm still revising my novel, although it's going much more slowly now on top of game development. My goal was to write a southern gothic set around the area I grew up, and being in Florida has allowed me to do a great deal of research... but this is my first completed book, and I worry a lot that I've bit off more than I can chew with some of the literary themes. I've written three drafts at this point, and I'm guessing I'll go through a dozen before I consider it "good enough".
+
+The pandemic has been taking its toll. I got vaccinated in April, but had a bad reaction to my first dose, and was in and out of the hospital for about a month. Most of my friends with EDS have gotten long COVID, where they were incapacitated from the beginning of the pandemic until their first dose of vaccine, so overall, I've been lucky. I miss my friends up north; I miss the other narrative game developers I've been starting to connect with; and I worry a lot about the future.
 
 ## Last Updated
 
