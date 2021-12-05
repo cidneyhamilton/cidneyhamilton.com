@@ -1,0 +1,21 @@
+---
+layout: bare
+---
+
+<body class="bg-white">
+
+  <header>	
+    {% include nav.html %}
+  </header>
+  
+  <main>
+    <h2 id="{{ page.title}}" class="p-name">{{ page.title }}</h2>
+    {{ content }}
+  </main>
+
+  <footer>
+    {% include search-form.html %}
+    {% include back-link.html %}
+  </footer>
+
+</body>

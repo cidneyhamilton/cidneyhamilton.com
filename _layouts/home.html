@@ -1,0 +1,24 @@
+---
+layout: bare
+---
+
+<body class="bg-black">
+
+  <header>
+    <h1>{{ page.heading }}</h1>
+  </header>
+  
+  <div class="scalloped scalloped-top"></div>
+  
+  <main>	 	  
+    {{ content }}
+  </main>
+    
+  <div class="scalloped scalloped-bottom"></div>
+  
+  <footer>
+  {% include search-form.html %}  
+  {% include nav.html %}
+  </footer>
+  
+</body>

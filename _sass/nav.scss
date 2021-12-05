@@ -1,0 +1,18 @@
+// Navigation
+.nav {
+	display: inline-block;
+	list-style-type: none;
+	padding: 1em;
+}
+
+.nav li {
+	display: inline-block;
+}
+
+.nav li:before {
+	content: "| ";
+}
+
+.nav li:first-child:before {
+	content: "";
+}

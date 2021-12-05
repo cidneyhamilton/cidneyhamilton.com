@@ -1,0 +1,9 @@
+<p class="post-meta">
+  <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">
+      {{ page.date | date: "%B %d, %Y" }}
+  </time>
+  {%- if site.author -%}
+  &mdash; Written by <span itemscope itemtype="http://schema.org/Person"><span class="p-author h-card">{{ site.author }}</span></span>&nbsp;
+  {%- endif -%}
+  &mdash; <a class="u-url" href="{{ page.url }}"> Permalink</a>
+</p>

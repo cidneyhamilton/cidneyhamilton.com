@@ -1,0 +1,29 @@
+# Metadata about the site
+name: Cidney Hamilton
+author: Cidney
+email: cidney@cidneyhamilton.com
+url: http://cidney.org
+fedi-url: https://social.city-of-glass.net/@cidney
+itch-url: https://cidney.itch.io
+github-url: https://github.com/cidneyhamilton
+gitlab-url: https://gitlab.com/cidney
+
+# Icons 
+favicon: "/assets/images/favicon.ico"
+apple-touch-icon: "/assets/images/favicons/apple-touch-icon.png"
+
+# CSS
+font-awesome: "/assets/font-awesome/css/fork-awesome.min.css"
+css-link: "/assets/css/style.css"
+
+# Build settings
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+
