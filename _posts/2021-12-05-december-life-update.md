@@ -1,11 +1,8 @@
 ---
-layout: page
-title: What I'm Doing Now
-permalink: /now/
-last_updated: December 5, 2021
+layout: post
+title: December Life Update
+date: 2021-12-05
 ---
-
-<small>This is a <a href="http://nownownow.com/about" target="_blank">now page</a>, inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Sivers</a>. It's like a static version of a status update.</small>
 
 I have a wife now! Cat and I got handfasted in early November, at a nature preserve near where we live. Because of complicated family dynamics, we kept things very small. We're planning a separate reception for our families in the near future.
 
@@ -18,9 +15,3 @@ My wife has taken over the house tabletop game. I'd decided to adapt an old Gary
 I was optimistically hoping to do another draft of my novel for NaNoWriMo, but have had zero time. I'm focusing aggressively on tying up loose ends and getting my life in order, so I can make the most of nights and weekends and have time to finish the book. Getting some downtime has been good; but going back to it has been discouraging ("wait, I *wrote* this? this is terrible!").
 
 I made it to EmacsConf last weekend, which was a lot of fun. In college we had to do our problem sets in emacs, but once I graduated I ended up using the IDEs everyone else was using at work to reduce friction (I had a BA in computer science from a liberal arts college, and considered myself lucky to get an engineering job at all!). I ended up switching back to emacs a couple years ago to finish my novel; it takes <a href="https://elizadev.medium.com/using-unity-editor-with-emacs-9316eb441411" target="_blank"> some fiddling</a> to get it usable in Unity, but is well worth it. I still have a LOT to learn, though, and often feel daunted by how different my background is than most people's!
-
-I'm still on the fediverse, though I check fairly infrequently. Feel free to message me there if you want to connect or geek out!
-
-## Last Updated
-
-Last updated on **{{page.last_updated}}**
