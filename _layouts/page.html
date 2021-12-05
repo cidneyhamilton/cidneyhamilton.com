@@ -2,20 +2,15 @@
 layout: bare
 ---
 
-<body class="bg-white">
+<body>
 
-  <header>	
-    {% include nav.html %}
-  </header>
+  {% include header.html %}
   
   <main>
     <h2 id="{{ page.title}}" class="p-name">{{ page.title }}</h2>
     {{ content }}
   </main>
 
-  <footer>
-    {% include search-form.html %}
-    {% include back-link.html %}
-  </footer>
+  {% include footer.html %}
 
 </body>

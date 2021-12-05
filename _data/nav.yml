@@ -1,12 +1,16 @@
 - name: home
   url: /
-- name: blog
-  url: /blog
-- name: about
+- name: about me
   url: /about 
-- name: uses
+- name: posts i write
+  url: /blog
+- name: stuff i use
   url: /uses
+- name: games
+  url: /games
+- name: websites
+  url: /web
 - name: now
   url: /now
-- name: contact
+- name: contact me
   url: /contact

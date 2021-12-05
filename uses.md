@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uses
+title: Stuff I Use
 permalink: /uses/
 last_updated: September 25, 2021
 ---

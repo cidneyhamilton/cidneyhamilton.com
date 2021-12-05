@@ -2,23 +2,14 @@
 layout: bare
 ---
 
-<body class="bg-black">
+<body>
 
-  <header>
-    <h1>{{ page.heading }}</h1>
-  </header>
-  
-  <div class="scalloped scalloped-top"></div>
+  {% include header.html %}
   
   <main>	 	  
     {{ content }}
-  </main>
-    
-  <div class="scalloped scalloped-bottom"></div>
-  
-  <footer>
-  {% include search-form.html %}  
-  {% include nav.html %}
-  </footer>
+  </main>    
+
+  {% include footer.html %}
   
 </body>

@@ -1,0 +1,31 @@
+I"<p>See any issues with the website? Just want to say hi? Use this form to reach out to me.</p>
+
+<p>Harassment and spam will be ignored; otherwise, I’ll try to reply within 48 hours.</p>
+
+<form class="contact" action="https://formspree.io/cidney@cidneyhamilton.com" method="POST">
+
+  <p>
+  <label for="name">Your Name (or alias):
+    <input type="text" name="name" placeholder="Your Name" />
+  </label>
+  </p>
+
+  <p>
+  <label for="email">Your Email Address:
+    <input type="email" name="_replyto" placeholder="youremail@domain.com" />
+  </label>
+  </p>
+  
+  <p>
+  <label for="message">Your Message To Me:
+    <textarea name="message">
+    </textarea>
+  </label>
+  </p>
+  
+  <div class="buttons">
+    <input type="submit" class="button" value="Send Me A Message" />
+  </div>  
+</form>
+
+:ET

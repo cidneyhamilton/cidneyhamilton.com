@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss",
+		"_sass/blank.scss"
+	],
+	"sourcesContent": [
+		"@import \"blank\";\n",
+		"body {\n}\n"
+	],
+	"names": [],
+	"mappings": ""
+}

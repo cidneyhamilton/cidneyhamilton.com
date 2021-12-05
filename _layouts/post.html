@@ -2,19 +2,18 @@
 layout: bare
 ---
 
-<body class="bg-white">
+<body>
 
   <header>
     {% include nav.html %}
   </header>
-
+  
   <main>
     <article class="post h-entry">      
       {% include post-header.html %}     
       <div class="post-content e-content">
 	{{ content }}
-      </div>
-      
+      </div>      
       {% include post-footer.html %}
     </article>
   </main>
