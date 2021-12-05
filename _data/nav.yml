@@ -1,5 +1,7 @@
 - name: home
   url: /
+- name: blog
+  url: /blog
 - name: about
   url: /about 
 - name: uses
