@@ -1,10 +1,13 @@
 # Metadata about the site
-name: Cidney Hamilton
-author: Cidney
+name: cidneyhamilton.com
+author: Cidney Hamilton
 email: cidney@cidneyhamilton.com
 url: http://cidneyhamilton.com
+source-url: http://github.com/cidneyhamilton/cidneyhamilton.com
 fedi-url: https://social.city-of-glass.net/@cidney
-itch-url: http://cidney.itch.io
+itch-url: https://cidney.itch.io
+github-url: https://github.com/cidneyhamilton
+gitlab-url: https://gitlab.com/cidney
 
 # Icons 
 favicon: "/assets/images/favicon.ico"
