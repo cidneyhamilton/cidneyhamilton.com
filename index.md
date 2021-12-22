@@ -3,7 +3,7 @@ layout: home
 heading: start
 ---
 
-Hi, I'm <a href="h-card" rel="me" href="{{ site.url }}">cidney</a>, and this is my personal website. 
+Hi, I'm <a class="h-card" rel="me" href="{{ site.url }}">cidney</a>, and this is my personal website. 
 
 I'm a freelance hacker by day. I used to be a [web developer](/web), but now I mostly make [adventure games](/games). My pronouns are <a href="https://pronoun.is/she" target="_blank">she/her</a> or <a href="https://pronoun.is/she" target="_blank">they/them</a>.
 
